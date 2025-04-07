@@ -44,7 +44,7 @@
 ## 🧑‍💻 작성자
 
 **Jongmin Oh**  
-📧 dhwhdals2637@gmail.com
+📧 dhwhdals2637@gmail.com  
 🌐 [GitHub Profile](https://github.com/Oh-jongmin)
 
 ## 📌 참고
