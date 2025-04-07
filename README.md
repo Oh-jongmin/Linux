@@ -22,3 +22,32 @@
 - 명령어를 단순 나열하는 것이 아닌 **실제 예시 기반으로 학습**
 - 각 주제별 **README.md 또는 .sh 예제 파일 제공**
 - **운영 자동화**를 위한 셸스크립트 기초 확립
+
+---
+
+## ✨ 실습 특징
+
+- 각 폴더는 마크다운으로 문서화되어 있어 복습에 용이
+- 일부는 `.sh` 스크립트 예제 파일도 포함
+- 단순 명령어 나열이 아닌, **실제 예시 중심**
+
+---
+
+## 💻 사용 환경
+
+- Ubuntu / Debian 기반 리눅스
+- VSCode + WSL 또는 터미널 환경
+- Bash Shell
+
+---
+
+## 🧑‍💻 작성자
+
+**Jongmin Oh**  
+📧 dhwhdals2637@gmail.com  
+🌐 [GitHub Profile](https://github.com/Oh-jongmin)
+
+## 📌 참고
+
+- 이 실습은 클라우드 인프라/보안/자동화 환경에서의 Linux 이해를 기반으로 구성되었습니다.
+- 확장 예: systemctl, crontab, logrotate, rsync 등
